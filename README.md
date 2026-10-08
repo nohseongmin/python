@@ -1,3 +1,3 @@
-# 파이썬 개인 연습
-+ 백준 문제집
-+ 수업내용 복습
+# Python Practice
+
+Personal Python exercises, Baekjoon problems, and class review.
